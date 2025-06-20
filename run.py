@@ -8,6 +8,7 @@ def startJarvis():
         print("Process 1 is running.")
         from main import start
         start()
+        
 
 # To run hotword
 def listenHotword():
